@@ -11,14 +11,11 @@
 </p>
 <div align="center">
 
-<div align="center">
+<p align="center">
+<img src="https://github.com/user-attachments/assets/71f403be-68a1-4458-a715-915dcbc8013a" height="650">
+
 <p align="cenrer">
 <img src="https://github.com/user-attachments/assets/5a30adb5-d43c-4195-b818-acd603b824ba" height="60"
-</div>
-
-<div align="center">
-𝖜𝖎𝖙𝖍𝖊𝖗𝖎𝖓𝖌 𝖑𝖎𝖌𝖍𝖙 
-
 </div>
 
 <div align="center">
