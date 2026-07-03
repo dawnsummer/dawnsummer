@@ -16,7 +16,11 @@
 <img src="https://github.com/user-attachments/assets/5a30adb5-d43c-4195-b818-acd603b824ba" height="60"
 </div>
 
-<a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a>
+<div align="center">
+
+<h2><a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a></h2>
+
+</div>
 
 </div>
 
