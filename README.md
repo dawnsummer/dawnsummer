@@ -19,6 +19,12 @@
 <a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a>
 
 </div>
+
+<img src="https://i.pinimg.com/originals/3a/fb/56/3afb5680d1629a6381673ec78bdd8913.gif" width="420">
+</div>
+
+</div>
+
 <div align="center">
 
 <h2>𝓫𝓽𝔀, 𝓲𝓶 𝓽𝓱𝓮 𝓱𝓮𝓵𝓹𝓮𝓻 𝓯𝓸𝓻<br>
