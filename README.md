@@ -3,12 +3,15 @@
 &nbsp;&nbsp;
 <a href="https://blueafterglow.atabook.org/">𝓪𝓽𝓪</a>
 &nbsp;&nbsp;
+<a
+href="https://rentry.co/dawnsummer/">rentry</a>
+&nbsp;&nbsp;
 <a href="https://dawnsummer.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/dbd4645a-ae2e-4f8a-a7c3-a90186a3e1f4" /></a>
-
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/94beabf5-99c1-471b-8fe8-4acf61a86bfe" height="600">
 </p>
+
 <div align="center">
 <p align="cenrer">
 <img src="https://github.com/user-attachments/assets/034513c3-e974-4644-ac29-3a4f08caeb91" height="60"
@@ -42,5 +45,3 @@
 @𝓥𝓲𝓷𝓽𝓮𝓢𝓮𝓪</h2>
 
 </div>
-<div align="center">
-<h2><a href="https://rentry.co/dawnsummer">rentry</a></h2>
