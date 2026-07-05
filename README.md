@@ -42,3 +42,5 @@
 @𝓥𝓲𝓷𝓽𝓮𝓢𝓮𝓪</h2>
 
 </div>
+<div align="center">
+<h2><a href="https://rentry.co/dawnsummer">rentry</a></h2>
