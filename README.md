@@ -45,3 +45,6 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 @𝓥𝓲𝓷𝓽𝓮𝓢𝓮𝓪</h2>
 
 </div>
+
+<div align="center">
+<h2>ă𝓷 𝓬𝓱á𝓸 đá 𝓫á𝓽 𝓽𝓱ì 𝓬ú𝓽, 𝓫ố 𝓴𝓱ô𝓷𝓰 𝓻ả𝓷𝓱 𝓽𝓲ế𝓹</h2>
