@@ -46,18 +46,3 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 </div>
 
-<div align="center">
-<h2>ăn cháo đá bát thì cút, bố đéo rảnh tiếp</h2>
-<div align="center">
-
-tao đã làm không công cho mày rồi<br>
-mà có cái cre cũng đéo cre được<br>
-thì cút cụ mày đi<br>
-địt con mẹ mày
-
-</div>
-<div align="center">
-
-<h2>tao đéo nhắm vào ai cả tao nói hết những đứa tao làm readme cho, mày nhắm mày cre được thì xài không thì gỡ cụ nó xuống cho tao, tao đéo chấp nhận xài mà không cre</h2>
-
-</div>
