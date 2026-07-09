@@ -1,7 +1,10 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a2eeb71c-2794-4abe-be3f-e0f76fc9ab87" height="600">
 </p>
+<div align="center">
 
+(đã có sự cho phép của @vaelozi)
+  
 <p align="center">
 <a href="https://discord.gg/J2kZWEZe"><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/dbd4645a-ae2e-4f8a-a7c3-a90186a3e1f4" />𝓭𝓲𝓼𝓬𝓸𝓻𝓭</a>
 &nbsp;&nbsp;
