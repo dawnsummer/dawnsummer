@@ -19,9 +19,9 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/71f403be-68a1-4458-a715-915dcbc8013a" height="650">
-
+𝓭𝓮𝓪𝓻 𝓶𝔂 
 <p align="center">
-  <span style="color:#FF8C00;">✦ summer memories ✦</span>
+  <img src="https://github.com/user-attachments/assets/baab67c5-a6c5-4414-88c1-62c91629c1ce" width="100">
 </p>
 </div>
 
