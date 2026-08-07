@@ -21,25 +21,19 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 <img src="https://github.com/user-attachments/assets/71f403be-68a1-4458-a715-915dcbc8013a" height="650">
 
 <p align="center">
+  <img src="https://i.pinimg.com/1200x/7b/b6/f9/7bb6f9f2a7ed23cba2cccf6ad7c2be0b.jpg" width="50"> 
+</p>
+</div>
+
+<img src="https://i.pinimg.com/originals/56/0f/e2/560fe2037d38688724c1a4281fdbc701.gif" width="420">
+</div>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/5dbcb4f2-3f9f-42da-85bc-7d0321eab753" width="50"> <img src="https://github.com/user-attachments/assets/5c110f12-015a-4eb6-a5a7-265869d7ca5b" width="50">
 </p>
-
+</div>
 <div align="center">
 
 <h2><a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a></h2>
 
 </div>
-
-</div>
-
-<img src="https://i.pinimg.com/originals/3a/fb/56/3afb5680d1629a6381673ec78bdd8913.gif" width="420">
-</div>
-
-</div>
-
-<div align="center">
-
-<h2>uh okay</h2>
-
-</div>
-
