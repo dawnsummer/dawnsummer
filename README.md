@@ -20,9 +20,9 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/71f403be-68a1-4458-a715-915dcbc8013a" height="650">
 
-<p align="cenrer">
-<img src="https://github.com/user-attachments/assets/5a30adb5-d43c-4195-b818-acd603b824ba" height="60"
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad50a08b-a0aa-405d-864f-6a74156ed3d3" width="50"> <img src="https://github.com/user-attachments/assets/1859e308-c46b-42cd-b7ee-d08f0d13ef23" width="50">
+</p>
 
 <div align="center">
 
