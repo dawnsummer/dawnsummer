@@ -39,7 +39,7 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 <div align="center">
 
-<h2>𝐋À𝐌 Ơ𝐍 𝐇Ã𝐘 𝐊É𝐎 𝐑𝐀𝐍𝐊 𝐋𝐈Ê𝐍 𝐐𝐔Â𝐍 𝐂𝐇𝐎 𝐓Ô𝐈</h2>
+<h2>uh okay</h2>
 
 </div>
 
