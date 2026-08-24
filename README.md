@@ -13,7 +13,7 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5dbcb4f2-3f9f-42da-85bc-7d0321eab753" width="50"> <img src="https://github.com/user-attachments/assets/5c110f12-015a-4eb6-a5a7-265869d7ca5b" width="50">
+  <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="20">
 </p>
 </div>
 
