@@ -8,30 +8,16 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 &nbsp;&nbsp;
 <a href="https://dawnsummer.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/dbd4645a-ae2e-4f8a-a7c3-a90186a3e1f4" /></a>
 </p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/94beabf5-99c1-471b-8fe8-4acf61a86bfe" height="600">
-</p>
 
-<div align="center">
-<p align="cenrer">
-<img src="https://github.com/user-attachments/assets/034513c3-e974-4644-ac29-3a4f08caeb91" height="60"
-</div>
+<img src="https://i.pinimg.com/originals/8d/86/27/8d86274da0893619b25be252d585ab78.gif" width="500">
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/71f403be-68a1-4458-a715-915dcbc8013a" height="650">
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38c725ef-e2f7-49c1-9c05-7b5cdb4d35fc" width="200">
-</p>
-</div>
-
-<img src="https://i.pinimg.com/originals/56/0f/e2/560fe2037d38688724c1a4281fdbc701.gif" width="420">
-</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5dbcb4f2-3f9f-42da-85bc-7d0321eab753" width="50"> <img src="https://github.com/user-attachments/assets/5c110f12-015a-4eb6-a5a7-265869d7ca5b" width="50">
 </p>
 </div>
+
+<img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
 <div align="center">
 
 <h2><a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a></h2>
