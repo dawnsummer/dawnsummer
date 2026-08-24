@@ -17,6 +17,13 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 </p>
 </div>
 
+<p align="center">
+  <font color="#D5A28F">what we had</font> ·
+  <font color="#8FB7C9">what remains</font> ·
+  <font color="#C9B49A">what faded</font> ·
+  <font color="#6F9295">what I remember</font>
+  
+</p>
 <img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
 <div align="center">
 
