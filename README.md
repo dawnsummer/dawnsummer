@@ -32,3 +32,12 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 <h2><a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a></h2>
 
 </div>
+
+$$
+\begin{aligned}
+&\color{#79A9C8}{\textit{I put you on my blacklist because I don't like you,}}\\
+&\color{#8E9CB8}{\textit{and I have no interest in hearing your explanations or excuses.}}\\
+&\color{#C49AAA}{\textit{I may be the villain in your story, and you may be the villain in mine.}}\\
+&\color{#D8C1B5}{\textit{Either way, let's never cross paths again.}}
+\end{aligned}
+$$
