@@ -19,11 +19,11 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="30">
-  $$\color{#8FB7C9}{\textsf{𝐦𝐲}}\quad
+  $$\color{#8FB7C9}{\textsf{𝑚𝑦}}\quad
   \color{#D5A28F}{\textsf{・}}\quad
-  \color{#C9B49A}{\textsf{𝐞𝐭𝐞𝐫𝐧𝐚𝐥}}\quad
+  \color{#C9B49A}{\textsf{𝑒𝑡𝑒𝑟𝑛𝑎𝑙}}\quad
   \color{#6F9295}{\textsf{・}}\quad
-  \color{#8C7887}{\textsf{𝐥𝐨𝐯𝐞}}$$
+  \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
 </p>
   
 <img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
