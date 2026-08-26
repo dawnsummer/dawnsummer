@@ -39,8 +39,9 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 </div>
 <div align="center">
+♡
+<br>lol haru & maeno<br>
 
-lol haru & maeno
 
 </div>
 <div align="center">
