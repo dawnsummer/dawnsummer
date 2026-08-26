@@ -25,13 +25,17 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
   \color{#6F9295}{\textsf{・}}\quad
   \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
 </p>
-  
-<img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
 <div align="center">
 
 <h2><a href="https://github.com/forgottenjune">𝓫𝓵𝓪𝓬𝓴𝓵𝓲𝓼𝓽  </a></h2>
 
 </div>
+  
+<img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efd1f2ae-0783-4356-a413-b0e86a52c357" width="150">
+</p>
 
 $$
 \begin{aligned}
