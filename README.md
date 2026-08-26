@@ -33,13 +33,9 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
   
 <img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/efd1f2ae-0783-4356-a413-b0e86a52c357" width="150">
-</p>
+<div align="center">
 
-$$
-\begin{aligned}
-&\color{#789FBE}{\textit{𝐼 𝑑𝑜𝑛'𝑡 𝑙𝑖𝑘𝑒 𝑢}}\\
-&\color{#D2A9B8}{\textit{𝑎𝑛𝑑 𝐼 ℎ𝑎𝑡𝑒 𝑢}}
-\end{aligned}
-$$
+<img src="https://github.com/user-attachments/assets/2e66f75a-bb04-4d6c-9362-aa11fcbe91ac" width="100"> <img src="https://github.com/user-attachments/assets/d6168274-82fe-4650-851f-34939b590ad1" width="100">
+
+</div>
+
