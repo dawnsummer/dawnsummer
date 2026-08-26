@@ -35,9 +35,7 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 $$
 \begin{aligned}
-&\color{#79A9C8}{\textit{I put you on my blacklist because I don't like you,}}\\
-&\color{#8E9CB8}{\textit{and I have no interest in hearing your explanations or excuses.}}\\
-&\color{#C49AAA}{\textit{I may be the villain in your story, and you may be the villain in mine.}}\\
-&\color{#D8C1B5}{\textit{Either way, let's never cross paths again.}}
+&\color{#789FBE}{\textit{𝐼 𝑑𝑜𝑛'𝑡 𝑙𝑖𝑘𝑒 𝑢}}\\
+&\color{#D2A9B8}{\textit{𝑎𝑛𝑑 𝐼 ℎ𝑎𝑡𝑒 𝑢}}
 \end{aligned}
 $$
