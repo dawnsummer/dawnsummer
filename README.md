@@ -54,4 +54,8 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 me (lowkey aura farming)
 
 </div>
-$$\color{#FF9999}{\textsf{I}}\quad\color{#FF7777}{\textsf{love}}\quad\color{#FF5555}{\textsf{my}}\quad\color{#CC3333}{\textsf{boyfriend}}$$
+$$\color{#8FB7C9}{\textsf{I}}\quad
+  \color{#D5A28F}{\textsf{Love}}\quad
+  \color{#C9B49A}{\textsf{My}}\quad
+  \color{#6F9295}{\textsf{Boyfriend}}\quad
+  \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
