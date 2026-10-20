@@ -13,16 +13,17 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="20"> 
+  <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="20">
 </p>
-$$\color{#8FB7C9}{\textsf{𝑚𝑦}}\quad
+</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="30">
+  $$\color{#8FB7C9}{\textsf{𝑚𝑦}}\quad
   \color{#D5A28F}{\textsf{・}}\quad
   \color{#C9B49A}{\textsf{𝑒𝑡𝑒𝑟𝑛𝑎𝑙}}\quad
   \color{#6F9295}{\textsf{・}}\quad
   \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
-</div>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5fd6b15a-20b0-40da-8b59-e916cb91df4d" width="30">
 </p>
 <div align="center">
 
@@ -40,6 +41,8 @@ $$\color{#8FB7C9}{\textsf{𝑚𝑦}}\quad
 <div align="center">
 ♡
 <br>lol haru & maeno<br>
+
+
 </div>
 <div align="center">
 
