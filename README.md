@@ -54,3 +54,4 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 me (lowkey aura farming)
 
 </div>
+$$\color{#FFCCCC}{\textsf{i}}\color{#FFB3B3}{\textsf{ }\textsf{l}}\color{#FF9999}{\textsf{o}}\color{#FF8080}{\textsf{v}}\color{#FF6666}{\textsf{e}}\color{#FF4D4D}{\textsf{ }\textsf{m}}\color{#FF3333}{\textsf{y}}\color{#FF1A1A}{\textsf{ }\textsf{b}}\color{#F00000}{\textsf{o}}\color{#D90000}{\textsf{y}}\color{#C20000}{\textsf{f}}\color{#AB0000}{\textsf{r}}\color{#940000}{\textsf{i}}\color{#7D0000}{\textsf{e}}\color{#660000}{\textsf{n}}\color{#4F0000}{\textsf{d}}$$
