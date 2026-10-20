@@ -41,7 +41,11 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 <div align="center">
 ♡
 <br>lol haru & maeno<br>
-
+$$\color{#8FB7C9}{\textsf{𝑚𝑦}}\quad
+  \color{#D5A28F}{\textsf{・}}\quad
+  \color{#C9B49A}{\textsf{𝑒𝑡𝑒𝑟𝑛𝑎𝑙}}\quad
+  \color{#6F9295}{\textsf{・}}\quad
+  \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
 
 </div>
 <div align="center">
@@ -54,9 +58,3 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 me (lowkey aura farming)
 
 </div>
-$$\color{#8FB7C9}{\textsf{I}}\quad
-  \color{#D5A28F}{\textsf{Love}}\quad
-  \color{#C9B49A}{\textsf{My}}\quad
-  \color{#6F9295}{\textsf{Boyfriend}}\quad
-  \color{#8C7887}{\textsf{𝑙𝑜𝑣𝑒}}$$
-</p>
