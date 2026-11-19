@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://discord.gg/J2kZWEZe"><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/dbd4645a-ae2e-4f8a-a7c3-a90186a3e1f4" />𝓭𝓲𝓼𝓬𝓸𝓻𝓭</a>
+<a href="https://discord.gg/J2kZWEZe">𝓭𝓲𝓼𝓬𝓸𝓻𝓭</a>
 &nbsp;&nbsp;
 <a href="https://blueafterglow.atabook.org/">𝓪𝓽𝓪</a>
 &nbsp;&nbsp;
 <a
 href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 &nbsp;&nbsp;
-<a href="https://dawnsummer.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/dbd4645a-ae2e-4f8a-a7c3-a90186a3e1f4" /></a>
+<a href="https://dawnsummer.straw.page/">𝓼𝓽𝓻𝓪𝔀𝓹𝓪𝓰𝓮</a>
 </p>
 
 <img src="https://i.pinimg.com/originals/8d/86/27/8d86274da0893619b25be252d585ab78.gif" width="500">
