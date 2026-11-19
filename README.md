@@ -31,26 +31,3 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 
 </div>
   
-<img src="https://i.pinimg.com/originals/86/48/99/86489954bc1c07e2df7aadc7fb6eff5d.gif" width="500">
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/2e66f75a-bb04-4d6c-9362-aa11fcbe91ac" width="100"> <img src="https://github.com/user-attachments/assets/d6168274-82fe-4650-851f-34939b590ad1" width="100">
-
-</div>
-<div align="center">
-♡
-<br>lol haru & maeno<br>
-
-
-</div>
-<div align="center">
-
-<img src="https://files.catbox.moe/f00smj.png" width="100">
-
-</div>
-<div align="center">
-
-me (lowkey aura farming)
-
-</div>
