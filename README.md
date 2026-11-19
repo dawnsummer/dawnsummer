@@ -27,6 +27,6 @@ href="https://rentry.co/dawnsummer/">𝓻𝓮𝓷𝓽𝓻𝔂</a>
 </p>
 <p align="center">
   <a href="https://github.com/forgottenjune">
-    <img src="https://github.com/user-attachments/assets/b14c786a-6516-46bf-ab65-5f403824e004" width="200">
+    <img src="https://github.com/user-attachments/assets/0c87c6a8-88ad-43b0-9c44-d2ce3ceffb79" width="300">
   </a>
 </p>
