@@ -21,11 +21,11 @@ $$
 $$
 
 $$
-\color{#8FC6B5}{\textsf{𝓣𝓻ust 𝓜𝓮, 𝓘 𝓖𝓸t 𝓝𝓸𝓽𝓱in' 𝓕𝓸r 𝓨𝓸u}}
+\color{#8FC6B5}{\textsf{𝑇𝑟𝑢𝑠𝑡 𝑚𝑒, 𝐼 𝑔𝑜𝑡 𝑛𝑜𝑡ℎ𝑖𝑛' 𝑓𝑜𝑟 𝑦𝑜𝑢}}
 $$
 
 $$
-\color{#D8C5A0}{\textsf{𝓞𝓽𝓱er 𝓣𝓱an 𝓛𝓸ve}}
+\color{#D8C5A0}{\textsf{𝑂𝑡ℎ𝑒𝑟 𝑡ℎ𝑎𝑛 𝑙𝑜𝑣𝑒}}
 $$
 <p align="center">
   <a href="https://rentry.co/dawnsummer/">
