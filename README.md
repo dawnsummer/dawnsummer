@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blueafterglow.atabook.org/?page=1">
-    <img src="https://github.com/user-attachments/assets/ae062a85-d5bc-439a-9bc9-e8a860513bb1" width="400">
+    <img src="https://github.com/user-attachments/assets/35fd8cb1-8011-4174-9d31-b8526ec24d31" width="400">
   </a>
 </p>
 
