@@ -9,15 +9,15 @@ $$
 $$
 
 $$
-\color{#A9C7B5}{\textsf{𝓘 𝓙ust 𝓒an't 𝓖et 𝓔𝓷ough}}
+\color{#A9C7B5}{\textsf𝐼 𝑗𝑢𝑠𝑡 𝑐𝑎𝑛'𝑡 𝑔𝑒𝑡 𝑒𝑛𝑜𝑢𝑔ℎ }
 $$
 
 $$
-\color{#B8A6CE}{\textsf{𝓟𝓾t 𝓘𝓽 𝓞n 𝓜e, 𝓣𝓱at's 𝓣𝓱e 𝓑𝓮st 𝓟𝓪𝓻t,}}
+\color{#B8A6CE}{\textsf{𝑃𝑢𝑡 𝑖𝑡 𝑜𝑛 𝑚𝑒, 𝑇ℎ𝑎𝑡'𝑠 𝑡ℎ𝑒 𝑏𝑒𝑠𝑡 𝑝𝑎𝑟𝑡,}}
 $$
 
 $$
-\color{#B8A6CE}{\textsf{𝓣𝓱e 𝓣𝓻𝓾st}}
+\color{#B8A6CE}{\textsf{𝑇ℎ𝑒 𝑡𝑟𝑢𝑠𝑡}}
 $$
 
 $$
